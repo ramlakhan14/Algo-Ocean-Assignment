@@ -16,7 +16,7 @@ fullstack-assignment/
 └── server/ # Node + Express Server (Backend)
 
 
-#Technologies Used
+# Technologies Used
 
 # Frontend:
 - React (CRA)
@@ -24,7 +24,7 @@ fullstack-assignment/
 - Axios
 - Bootstrap 5
 
-#Backend:
+# Backend:
 - Node.js
 - Express.js
 - CORS
@@ -35,13 +35,13 @@ git clone https://github.com/ramlakhan14/Algo-Ocean-Assignment.git
 cd Algo-Ocean-Assignment
 
 
-#Running the Backend (Express)
+# Running the Backend (Express)
 cd server
 npm install
 node index.js
 Backend will run on: http://localhost:5000
 
-#Running the Frontend (React)
+# Running the Frontend (React)
 cd client
 npm install
 npm start
