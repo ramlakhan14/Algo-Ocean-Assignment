@@ -22,7 +22,7 @@ function FormPage() {
       localStorage.setItem('user', JSON.stringify(formData));
       navigate('/display');
     } catch {
-      setError('❌ Failed to save user. Please try again.');
+      setError(' Failed to save user. Please try again.');
     }
   };
 
